@@ -61,7 +61,7 @@ The crucial corollary, stated plainly in TypeSafe's own docs and every serious r
 
 ## 4. Architecture — what is known vs. inferred
 
-Be honest about the boundary here, because the vendor has disclosed very little.
+Let's be honest about the boundary here, because the vendor has disclosed very little.
 
 **Disclosed:**
 
